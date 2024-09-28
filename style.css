@@ -39,9 +39,13 @@ img{
 }
 
 .description, .ingredients, .steps {
-    border: 1px solid;
+    border: 4px solid rgb(156, 47, 10);
+    margin: 8px;
+    padding: 6px;
 }   
 
 .ingredients-parts{
-    border: 1px dotted;
+    border: 3px dotted rgb(136, 85, 9);
+    margin: 8px;
+    padding: 6px;
 }
