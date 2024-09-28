@@ -24,6 +24,8 @@ h4 {
 img{
     width: 700;
     height: auto;
+    display: block;
+    margin: auto;
 }
 
 .home-recipes li{
