@@ -26,4 +26,10 @@ img{
     height: auto;
 }
 
+.home-recipes li{
+    padding: 5px;
+    border: 1px solid;
+    margin: 10px;
+}
+
 
